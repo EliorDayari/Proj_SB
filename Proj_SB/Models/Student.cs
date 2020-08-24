@@ -13,12 +13,6 @@ namespace Proj_SB.Models
         public int Grade { get; set; }
 
         public string Email { get; set; }
-
-
-        public int ORGGrade { get; set; }
-
-        public int MyProperty { get; set; }
-
-        public int MyProperty2 { get; set; }
+        public string Color { get; set; }
     }
 }
