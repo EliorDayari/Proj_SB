@@ -16,6 +16,6 @@ namespace Proj_SB.Models
         public string Color { get; set; }
 
 
-        public int Blallalalala { get; set; }
+        public int HahahHA { get; set; }
     }
 }
