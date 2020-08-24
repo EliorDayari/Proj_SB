@@ -16,5 +16,8 @@ namespace Proj_SB.Models
 
 
         public int ORGGrade { get; set; }
+
+        public int MyProperty { get; set; }
+
     }
 }
