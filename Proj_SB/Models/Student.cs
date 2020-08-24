@@ -15,5 +15,6 @@ namespace Proj_SB.Models
         public String Yar { get; set; }
 
         public int ORGGrade { get; set; }
+        public int AAAAAA { get; set; }
     }
 }
