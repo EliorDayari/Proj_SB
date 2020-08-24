@@ -11,5 +11,7 @@ namespace Proj_SB.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Grade { get; set; }
+
+        public string Email { get; set; }
     }
 }
