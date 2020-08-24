@@ -12,9 +12,10 @@ namespace Proj_SB.Models
         public string LastName { get; set; }
         public int Grade { get; set; }
 
-        public String Yar { get; set; }
+        public string Email { get; set; }
+        public string Color { get; set; }
 
-        public int ORGGrade { get; set; }
-        public int AAAAAA { get; set; }
+
+        public int HahahHA { get; set; }
     }
 }
