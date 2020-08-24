@@ -14,5 +14,8 @@ namespace Proj_SB.Models
 
         public string Email { get; set; }
         public string Color { get; set; }
+
+
+        public int Blallalalala { get; set; }
     }
 }
