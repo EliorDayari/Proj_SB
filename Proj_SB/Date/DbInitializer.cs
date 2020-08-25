@@ -30,7 +30,7 @@ namespace Proj_SB.Date
             var courses = new Course[]
             {
                 new Course{ CourseID =100,Title="Infi1",Credits=4},
-                   new Course{ CourseID =450,Title="Linear2",Credits=4},
+                   new Course{ CourseID =450,Title="Linear2",Credits=7},
                      new Course{ CourseID =200,Title="Infi2",Credits=5}
             };
             foreach (Course c in courses)
