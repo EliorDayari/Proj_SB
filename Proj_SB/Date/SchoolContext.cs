@@ -12,9 +12,10 @@ namespace Proj_SB.Date
         public SchoolContext (DbContextOptions<SchoolContext> options): base(options){
             }
 
-        DbSet<Student> Student { get; set; }
-        DbSet<Course> Course { get; set; }
-        DbSet<Enrollment> Enrollment { get; set; }
+
+     public   DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<Enrollment> Enrollments { get; set; }
     }   
 }
 
